@@ -11,3 +11,7 @@ Aqui eu organizei os arquivos e descrevi o que aprendi durante o processo.
 - Usar o GitHub para compartilhar documentação técnica
 
 <img width="830" height="548" alt="image" src="https://github.com/user-attachments/assets/ec79b17a-8368-4aa6-a428-d9dddf54b242" />
+
+Downloads
+[APP - Investimento bio.xlsx](https://github.com/user-attachments/files/24442067/APP.-.Investimento.bio.xlsx)
+
